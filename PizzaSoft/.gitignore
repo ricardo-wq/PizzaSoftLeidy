@@ -1,0 +1,52 @@
+# Carpetas de NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/build/
+/dist/
+.nbm/
+
+# Archivos de NetBeans con configuraciones locales
+nb-configuration.xml
+
+# Archivos generados y de compilación
+*.class
+*.log
+*.bak
+*.orig
+*.swp
+*.tmp
+*.ctxt
+*.bat
+*.iml
+
+# Archivos del sistema de compilación
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de configuración específicos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Icon?
+
+# Archivos de versiones antiguas
+.svn/
+CVS/
+
+# IDEs
+.idea/
+
+# Logs de errores de JVM
+hs_err_pid*
+replay_pid*
+
+# Archivos específicos de tu proyecto
+config.properties
+cambiar_password.bat
